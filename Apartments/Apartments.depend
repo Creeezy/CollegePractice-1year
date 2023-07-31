@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1654426151 source:c:\users\arrvv\desktop\ó÷¸áà\ïðàêòèêà\apartments\main.cpp
+	<iostream>
+	<conio.h>
+	"Apartments.h"
+	<windows.h>
+
+1654190643 c:\users\arrvv\desktop\ó÷¸áà\ïðàêòèêà\apartments\apartments.h
+
+1654494376 source:c:\users\arrvv\desktop\ó÷¸áà\ïðàêòèêà\apartments\apartments.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<windows.h>
+	"Apartments.h"
+
+1654426151 source:c:\users\arrvv\desktop\ó÷¸áà\ïðîãðàììèðîâàíèå\test\apartments\main.cpp
+	<iostream>
+	<conio.h>
+	"Apartments.h"
+	<windows.h>
+
+1654190643 c:\users\arrvv\desktop\ó÷¸áà\ïðîãðàììèðîâàíèå\test\apartments\apartments.h
+
+1654494376 source:c:\users\arrvv\desktop\ó÷¸áà\ïðîãðàììèðîâàíèå\test\apartments\apartments.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<windows.h>
+	"Apartments.h"
+
+1654494376 source:c:\users\arrvv\desktop\ó÷¸áà\ïðàêòèêà\ïðîåêò\apartments\apartments.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<windows.h>
+	"Apartments.h"
+
+1654190643 c:\users\arrvv\desktop\ó÷¸áà\ïðàêòèêà\ïðîåêò\apartments\apartments.h
+
+1654426151 source:c:\users\arrvv\desktop\ó÷¸áà\ïðàêòèêà\ïðîåêò\apartments\main.cpp
+	<iostream>
+	<conio.h>
+	"Apartments.h"
+	<windows.h>
+
